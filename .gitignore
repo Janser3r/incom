@@ -1,0 +1,8 @@
+# Material fuente; no es necesario para publicar el sitio.
+*.pdf
+
+# Archivos locales del sistema y editores.
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
